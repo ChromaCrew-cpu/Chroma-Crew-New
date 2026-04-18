@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#111111"/>
+  <rect x="110" y="80" width="580" height="840" rx="42" fill="#1f1f1f" stroke="#ef4444" stroke-width="10"/>
+  <text x="400" y="210" text-anchor="middle" fill="#ffffff" font-size="52" font-family="Arial, sans-serif">FRONT VIEW</text>
+  <rect x="215" y="300" width="370" height="450" rx="22" fill="#0a0a0a" stroke="#ffffff" stroke-opacity="0.45" stroke-dasharray="14 10" stroke-width="4"/>
+  <text x="400" y="535" text-anchor="middle" fill="#ef4444" font-size="42" font-family="Arial, sans-serif">DTF PRINT AREA</text>
+</svg>

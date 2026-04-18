@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#111111"/>
+  <rect x="100" y="70" width="600" height="860" rx="42" fill="#1b1b1b" stroke="#ef4444" stroke-width="10"/>
+  <text x="400" y="190" text-anchor="middle" fill="#ffffff" font-size="50" font-family="Arial, sans-serif">CUSTOM FRONT</text>
+  <rect x="220" y="290" width="360" height="470" rx="24" fill="#0a0a0a" stroke="#ffffff" stroke-opacity="0.45" stroke-dasharray="14 10" stroke-width="4"/>
+</svg>
